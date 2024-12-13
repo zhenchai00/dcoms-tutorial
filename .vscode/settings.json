@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derby.jar",
+        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derbyclient.jar",
+        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derbynet.jar"
+    ]
+}

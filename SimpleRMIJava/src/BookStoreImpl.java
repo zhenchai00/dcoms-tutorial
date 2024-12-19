@@ -3,6 +3,7 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import java.util.List;
 
+// This object acts as a server based on the DCOMS theory.
 public class BookStoreImpl extends UnicastRemoteObject implements BookStore {
     private List<String> books;
 

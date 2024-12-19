@@ -20,4 +20,9 @@ public class Server extends UnicastRemoteObject implements rmiinterface {
     public int subtract(int a, int b) throws RemoteException {
         return a - b;
     }
+
+    @Override
+    public double calculateCircleArea(int radius) throws RemoteException {
+        return (int) (Math.PI * radius * radius);
+    }
 }

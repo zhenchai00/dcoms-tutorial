@@ -9,5 +9,6 @@ public class Register {
         Registry reg = LocateRegistry.createRegistry(1040);
         reg.rebind("add", new Server()); // register the Server object with the name "add"
         reg.rebind("subtract", new Server()); // register the Server object with the name "subtract"
+        reg.rebind("calculateCircleArea", new Server()); // register the Server object with the name "calculateCircleArea"
     }
 }

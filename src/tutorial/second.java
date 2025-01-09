@@ -1,3 +1,4 @@
+package tutorial;
 public class second implements first {
     public void sound() {
         System.out.println("The sound says: Hey");

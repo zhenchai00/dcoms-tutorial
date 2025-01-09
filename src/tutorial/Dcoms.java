@@ -1,3 +1,4 @@
+package tutorial;
 public interface Dcoms {
     public void print();
 

@@ -1,4 +1,4 @@
-package dcoms.lab2.rmi;
+package lab2.rmi;
 
 import java.rmi.RemoteException;
 import java.rmi.server.UnicastRemoteObject;

@@ -1,3 +1,4 @@
+package tutorial;
 public interface first {
     public void sound();
 

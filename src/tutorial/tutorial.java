@@ -1,3 +1,4 @@
+package tutorial;
 public class tutorial implements Dcoms {
     public void print() {
         System.out.println("Hi");

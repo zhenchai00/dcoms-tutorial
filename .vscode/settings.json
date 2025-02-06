@@ -4,8 +4,10 @@
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derby.jar",
-        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derbyclient.jar",
-        "c:\\Program Files\\Java\\jdk-21\\lib\\db-derby-10.17.1.0-bin\\lib\\derbynet.jar"
+        "c:\\Program Files\\Java\\jdk1.8.0_111\\db\\lib\\derby.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_111\\db\\lib\\derbyclient.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_111\\db\\lib\\derbynet.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_111\\db\\lib\\derbyrun.jar",
+        "c:\\Program Files\\Java\\jdk1.8.0_111\\db\\lib\\derbytools.jar"
     ]
 }
